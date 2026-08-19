@@ -9,7 +9,7 @@ I built this as a 3-page interactive report, with slicers for category and sub-c
 ## What's inside the report
 
 ### Page 1 — Course Overview
-![Course Overview](image3.png)
+![Course Overview](Ed-Tech/image1.png)
 
 This is the main landing view of the report. It breaks down courses by type (Course, Specialization, Professional Certificate), shows average viewers by sub-category, the top skills by total viewership, and the language split of the entire course catalog. It gives a quick snapshot of the overall course library before diving deeper.
 
