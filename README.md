@@ -14,12 +14,12 @@ I built this as a 3-page interactive report, with slicers for category and sub-c
 This is the main landing view of the report. It breaks down courses by type (Course, Specialization, Professional Certificate), shows average viewers by sub-category, the top skills by total viewership, and the language split of the entire course catalog. It gives a quick snapshot of the overall course library before diving deeper.
 
 ### Page 2 — Engagement & Instructor Insights
-![Engagement Insights](image2.png)
+![Engagement Insights](Ed-Tech/image2.png)
 
 This page looks at how viewers actually engage with the content. It ranks categories by average views, shows instructor ratings, and compares viewership against subtitle availability and course duration. This page is where some of the more interesting patterns showed up, especially around subtitles and how long a course is.
 
 ### Page 3 — Skills & Duration Summary
-![Skills Summary](image1.png)
+![Skills Summary](Ed-Tech/image3.png)
 
 A category and sub-category wise breakdown of average skills taught per course and average course duration, along with a written summary of the key takeaways from the whole analysis.
 
